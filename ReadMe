@@ -1,0 +1,11 @@
+1. Unzip eBay_Node.tar.gz
+2. Go into the eBay_Node directory.
+3. Run the command "npm install"
+4. In the test.json, replace your own id, devid, key to origin information.
+5. In the Line 42, index.js, if you want to run in the PRODUCTION mode, replace it. And SANDBOX mode, replace too!!!
+   The normal option is PRODUCTION.
+6. Run the command "node index.js" in the current directory.
+
+You could see the results!!!
+
+Thanks.

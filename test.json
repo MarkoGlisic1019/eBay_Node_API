@@ -1,0 +1,16 @@
+{
+    "PRODUCTION": {
+        "clientId": "Alexsand-MyApp-PRD-140728b69-********",
+        "clientSecret": "PRD-40728b69fdd1-40bd-438d-967c-****",
+        "devid": "7b7f2a12-2d99-4a0e-836a-************",
+        "redirectUri": "PRODREDIRECT",
+        "baseUrl": "api.ebay.com"
+    },
+    "SANDBOX": {
+        "clientId": "Alexsand-MyApp-SBX-3388a6d5f-********",
+        "clientSecret": "SBX-388a6d5ffa4e-d2a7-4e7a-af76-****",
+        "devid": "7b7f2a12-2d99-4a0e-836a-************",
+        "redirectUri": "SANDBOXREDIRECT",
+        "baseUrl": "api.sandbox.ebay.com"
+    }
+}
